@@ -1,5 +1,9 @@
 .header-links{
+    justify-content: flex-end;
+    align-content: space-between;
+    gap: 10px;
+    
+}
+.holy-grail{
     display: flex;
-    justify-content: flex-start;
-    align-content: flex-start;
 }
