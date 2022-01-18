@@ -1,8 +1,9 @@
 .header-links{
+    display: flex;
     justify-content: flex-end;
     align-content: space-between;
     gap: 10px;
-    
+
 }
 .holy-grail{
     display: flex;
