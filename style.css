@@ -9,3 +9,7 @@
 .holy-grail{
     display: flex;
 }
+
+.holy-grail-content{
+    font-size: 40px;
+}
