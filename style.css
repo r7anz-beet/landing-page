@@ -6,10 +6,11 @@
     background-color: mediumblue;
 }
 .boxes{
-    display: flex;
+    display: box;
     justify-content: center;
     gap: 30px;
-    height: 200px;
-    width: auto;
+    height: 100px;
+    width: 100px;
+
 
 }
