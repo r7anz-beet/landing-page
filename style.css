@@ -1,20 +1,7 @@
-.header-links .holy-grail{
-    display: flex;
-    justify-content: flex-end;
-    align-content: flex-start;
-    gap: 10px;
-    background-color: lime;
 
-}
-.holy-grail{
-    display: flex;
-}
 
 .holy-grail-content{
     font-size: 40px;
-}
-#footer{
-    display: flex;
-    align-content: flex-end;
-    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: mediumblue;
 }
