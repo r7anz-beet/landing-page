@@ -5,3 +5,6 @@
     font-family: Arial, Helvetica, sans-serif;
     background-color: mediumblue;
 }
+#button{
+    empty-cells: hide;
+}
