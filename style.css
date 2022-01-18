@@ -5,12 +5,11 @@
     font-family: Arial, Helvetica, sans-serif;
     background-color: mediumblue;
 }
-.boxes{
-    display: box;
+.boxes
+{
+    display: flex;
     justify-content: center;
     gap: 30px;
     height: 100px;
     width: 100px;
-
-
 }
