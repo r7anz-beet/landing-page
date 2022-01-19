@@ -32,7 +32,7 @@
 .one{
 display: flex;
 justify-content: space-between;
-align-content: space-between;
+align-content: center;
 height: 40px;
 width: 40px;
 }
