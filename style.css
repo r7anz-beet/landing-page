@@ -32,8 +32,7 @@
 .one{
 display: flex;
 flex-wrap: nowrap;
-justify-content: space-between;
-align-content: center;
+flex-flow: column;
 height: 40px;
 width: 40px;
 margin-left: auto;
