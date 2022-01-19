@@ -13,8 +13,7 @@
     width: 400;
     background-color: darkcyan;
     border: 2px solid red ;
-    margin-left: auto;
-    margin-right: auto;
+   
     text-align: center;
     padding: 40px;
 }
@@ -23,8 +22,7 @@
  display: block;
  
  background: #34696f;
- margin-left: auto;
- margin-right: auto;
+ 
  align-content: center;
  background-color: royalblue;
  
