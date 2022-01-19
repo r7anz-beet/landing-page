@@ -24,6 +24,6 @@
    background-color: darkblue; 
 }
 .header-links{
-    align-content: flex-end;
+    text-align: right;
     gap: 20px;
 }
