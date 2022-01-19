@@ -22,7 +22,9 @@
  display: inline block;
  
  background: #34696f;
- 
+ display: flex;
+flex-wrap: nowrap;
+flex-flow: column;
  
  background-color: royalblue;
  
@@ -30,9 +32,7 @@
 }
 
 .one{
-display: flex;
-flex-wrap: nowrap;
-flex-flow: column;
+
 height: 40px;
 width: 40px;
 margin-left: auto;
