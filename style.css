@@ -57,6 +57,8 @@ color: saddlebrown;
     background-color: royalblue;
 }
 .footer{
+display:flex;
+justify-content: end;
     color: saddlebrown;
     text-align: center;
     background-color: royalblue;
