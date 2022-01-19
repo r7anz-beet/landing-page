@@ -24,7 +24,6 @@ body{
 	
 .boxes{
  display: inline block;
- border-radius: 25px;
  background: #34696f;
  display: flex;
 flex-direction: row;
@@ -32,6 +31,7 @@ flex-direction: row;
 }
 
 .one{
+    border-radius: 25px;
 
 height: 60px;
 width: 60px;
