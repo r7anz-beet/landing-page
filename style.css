@@ -11,8 +11,8 @@ body{
 
 .image{
 
-    height: 400;
-    width: 400;
+    height: 100;
+    width: 200;
     background-color: darkcyan;
     border: 2px solid red ;
     text-align: center;
