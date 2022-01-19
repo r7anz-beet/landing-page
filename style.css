@@ -28,6 +28,11 @@
  
  
 }
+
+.one{
+display: flex;
+justify-content: space-between;
+}
 .button{
     align-content: center;
 }
