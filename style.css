@@ -55,6 +55,8 @@ color: saddlebrown;
 .quote{
     text-align: center;
     background-color: lightpink;
+    margin-right: 100px;
+    margin-left: 100px;
 }
 .footer{
 
