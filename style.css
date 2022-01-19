@@ -37,6 +37,7 @@ margin-left: auto;
 margin-right: auto;
 padding: 20px;
 border: 5px royalblue;
+color: saddlebrown;
 
 }
 .button{
@@ -56,8 +57,11 @@ border: 5px royalblue;
     background-color: royalblue;
 }
 .footer{
+    display: inline-block;
+    color: saddlebrown;
     text-align: center;
     background-color: royalblue;
+
 }
 .content-center{
     text-align: center;
