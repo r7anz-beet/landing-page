@@ -30,8 +30,11 @@
 }
 
 .one{
-
+display: flex;
 justify-content: space-between;
+align-content: space-between;
+height: 400px;
+width: auto;
 }
 .button{
     align-content: center;
