@@ -13,8 +13,8 @@ body{
 
 .image{
 
-    height: 100;
-    width: 200;
+    height: 200;
+    width: 100;
     color: saddlebrown;
     border: 2px solid red ;
     text-align: center;
