@@ -57,11 +57,12 @@ color: saddlebrown;
     background-color: royalblue;
 }
 .footer{
-display:flex;
-align-items: end;
+
     color: saddlebrown;
     text-align: center;
     background-color: royalblue;
+    padding-top: 60px;
+
 
 }
 .content-center{
