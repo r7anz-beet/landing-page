@@ -20,7 +20,6 @@
  
 }
 .header{
-    display: flex;
    background-color: darkblue; 
 }
 .header-links{
