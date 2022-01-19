@@ -7,7 +7,14 @@
     text-align: center;
 }
 
-
+.image{
+    display: block;
+    height: auto;
+    width: auto;
+    background-color: darkcyan;
+    border: red ;
+    margin: auto;
+}
 	
 .boxes{
  display: block;
@@ -23,6 +30,7 @@
    background-color: darkblue; 
 }
 .header-links{
+    flex-flow: column;
     text-align: right;
     gap: 20px;
 }
